@@ -5,11 +5,8 @@ to their projects in one line;
 
 ```
 dependencies {
-    implementation 'com.github.jitpack:android-example:1.0'
+    implementation 'com.github.vestrel00:android-example:1.0'
 }
 ```
 
-Verified that all modules are successfully imported by clients using;
-
-- AGP 7.1.0 and Gradle (wrapper) 7.2 
-- AGP 7.0.3 and Gradle (wrapper) 7.0.2 
+Verified that all modules are successfully imported by clients.

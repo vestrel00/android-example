@@ -42,7 +42,7 @@ afterEvaluate {
             // Creates a Maven publication called "release".
             release(MavenPublication) {
                 from components.release
-                groupId = 'com.github.vestrel00.example'
+                groupId = 'com.github.vestrel00.android-example'
                 artifactId = 'module9'
                 version = '1.0'
             }
